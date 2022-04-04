@@ -2,6 +2,8 @@
 
 # 每日更新
 
+## 喜歡本項目就點擊右上角 Star和Fork吧！
+
 
 [![Github License](https://img.shields.io/github/license/GreenFishStudio/GreenFish.svg?label=LICENSE&logo=github)](https://github.com/GreenFishStudio/GreenFish/blob/master/LICENSE)
 [![GitHub Star](https://img.shields.io/github/stars/GreenFishStudio/GreenFish.svg?label=Star&logo=github)](https://github.com/GreenFishStudio/GreenFish/stargazers) 
