@@ -5,7 +5,7 @@
 
 [![Github License](https://img.shields.io/github/license/GreenFishStudio/GreenFish.svg?label=LICENSE&logo=github)](https://github.com/GreenFishStudio/GreenFish/blob/master/LICENSE)
 [![GitHub Star](https://img.shields.io/github/stars/GreenFishStudio/GreenFish.svg?label=Star&logo=github)](https://github.com/GreenFishStudio/GreenFish/stargazers) 
-[![GitHub Fork](https://img.shields.io/github/fork/GreenFishStudio/GreenFish.svg?label=ForkStar&logo=github)](https://github.com/GreenFishStudio/GreenFish/network/members)
+[![GitHub Fork](https://img.shields.io/github/forks/GreenFishStudio/GreenFish.svg?label=Fork&logo=github)](https://github.com/GreenFishStudio/GreenFish/network/members)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
