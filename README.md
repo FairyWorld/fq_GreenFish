@@ -42,7 +42,7 @@
 
 🧰[免費美區Apple賬號] `https://free.shadowrocket.online`
 
-📛聲明[點擊查看](https://github.com/GreenFishStudio/GreenFish/blob/none/README.md)
+📛聲明[點擊查看](https://github.com/GreenFishStudio/GreenFish/blob/privacy/README.md)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
