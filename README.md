@@ -9,4 +9,4 @@
 ### 联系邮箱: chen1263754478@gmail.com
 
 
-![shhxzyjzg](https://github.com/ThekingMX1998/free-v2ray-code/raw/master/Image/shhxzyjzg.jpg)
+![shhxzyjzg](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/shhxzyjzg.jpg)
