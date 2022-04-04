@@ -3,7 +3,7 @@
 # 每日更新
 
 
-## 喜歡本項目 請點擊右上角[![GitHub Star](https://img.shields.io/github/stars/GreenFishStudio/GreenFish.svg?label=Star&logo=github)](https://github.com/GreenFishStudio/GreenFish)
+## 喜歡本項目 請點擊右上角[![GitHub Star](https://img.shields.io/github/stars/GreenFishStudio/GreenFish.svg?label=Star&logo=github)](https://github.com/GreenFishStudio/GreenFish) [![GitHub Fork](https://img.shields.io/github/forks/GreenFishStudio/GreenFish.svg?label=Fork&logo=github)](https://github.com/GreenFishStudio/GreenFish)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
