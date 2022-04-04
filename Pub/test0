@@ -1,0 +1,342 @@
+## 最常用的两个混淆
+
+> 联通手厅直播:` pull.free.video.10010.com` (部分地区和谐,自测)
+> 新混淆: `shoutingtoutiao3.10010.com` (该混淆会计算在免费流量里的其他一栏,是否免流自己测试,亲测跳点极低)
+> `pushservice.10010.com` (广州可以,其他地区自测)
+>> 电信停机: `a.189.cn`
+
+
+### 电信停机绿通混淆
+
+全国混淆0: `a.189.cn`
+
+全国混淆1: `www.189.cn`
+
+全国混淆2: `a.189.cn/JJGsAL.cn`
+
+湖北: `wap.hb.189.cn, mgc.hb.189.cn:10001`
+
+湖南: `lt.hn.189.cn`
+
+山东: `wapsd.189.cn`
+
+江西: `wapjx.189.cn`
+
+四川: `wap.sc.189.cn`
+
+重庆: `webwebfenxi.189.cn:9000`
+
+广东: `gd.189.cn/TS/recharge/tzUrl.html`
+
+全国电信支付通道: `wappay.189.cn,paygo.189.cn:9779`
+
+
+## 电信混淆
+
+天翼视讯0: `h5.nty.tv189.com`
+
+天翼视讯1: `vod3.nty.tv189.cn`
+
+爱玩: `open.4g.play.cn` (端口任意)
+
+爱看: `ltetp.tv189.com` (端口任意)
+
+湖北电信: `hb.10000shequ.com:8081`
+
+电信天翼0: `dy3.nty.tv189.cn`
+
+电信天翼1: `ltewap.tv189.com`
+
+电信天翼2: `tp.nty.tv189.com`
+
+电信爱听: `dl.music.189.cn`
+
+
+## 移动混淆
+官网: `www.10086.cn`
+抖音卡头条卡0: `dm.toutiao.com` (有定向包可用)
+
+抖音卡头条卡1: `v9-dy.ixigua.com` (有定向包可用)
+
+
+### 联通混淆
+
+山东联通: `m.t.17186.cn`
+
+联通114圣子全国: `114.255.201.163` (重庆、河南、福建、湖南等地)
+
+哔哩哔哩0: `i1.hdslb.com`
+
+哔哩哔哩1: `i0.hdslb.com`
+
+浙江联通: `wo+:w.zj165.com`
+
+联通wotv全国: `wotv.17wo.cn` (浙江、安徽、江苏)
+
+河北: `hb.10000shequ.com`
+
+湖北: `box.10155.com` (优先wap接入点不免net)
+
+沃音乐: `box.10155.com` (四川、湖北、重庆、河北等)
+
+沃阅读: `partner.iread.wo.com.cn` (北京、河南等)
+
+工商e卡0: `v.icbc.com.cn`
+
+工商e卡1: `m.icbc.com.cn`
+
+工商e卡2: `m.mall.icbc.com.cn`
+
+工商e卡3: `elife.icbc.com.cn`
+
+工商e卡4: `act.icbc.com.cn`
+
+工商e卡5: `hit.icbc.com.cn`
+
+工商e卡6: `pv.mall.icbc.com.cn`
+
+工商e卡7: `mybank.icbc.com.cn`
+
+
+### 过40G通用混淆
+
+全国联通沃商店混淆参数0: `game.hxll.wostore.cn`
+
+全国联通沃商店混淆参数1: `music.hxll.wostore.cn`
+
+沃阅读混淆参数: `partner.iread.wo.com.cn`
+
+全国联通沃音乐: `box.10155.com`
+
+联通直播: `pull.free.video.10010.com`
+
+营业厅游戏: `pic.yx007.com`
+
+沃学习: `edu.10155.com` (wap)
+
+沃音乐: `listen.10155.com` (wap)
+
+沃阅读: `m.iread.wo.com.cn` (wap)
+
+沃视界: `ysj.iread.wo.com.cn` (wap)
+
+沃视频: `imageout.wotv.17wo.cn` (wap)
+
+
+### 互联网套餐定向混淆
+
+OPPO软件商店0: `dict-search.nearme.com.cn`
+
+OPPO软件商店1: `dragate.dc.oppomobile.com`
+
+爱奇艺视频: `m.iqiyi.com`
+
+百度地图: `newclient.map.baidu.com`
+
+嘀嗒拼车: `capis-2.didapinche.com`
+
+滴滴出行: `as.xiaojukeji.com`
+
+抖音短视频0: `api5-normal-c-lq.amemv.com`
+
+抖音短视频1: `log3-misc-lq.amemv.com`
+
+抖音短视频2: `p11.douyinpic.com`
+
+抖音短视频3: `p26.douyinpic.com`
+
+抖音短视频4: `p29.douyinpic.com`
+
+抖音短视频5: `p3.douyinpic.com`
+
+抖音短视频6: `p5-ipv6.douyinpic.com`
+
+抖音短视频7: `p6.douyinpic.com`
+
+抖音短视频8: `v26.douyinvod.com`
+
+抖音短视频9: `v26.douyinvod.com`
+
+抖音短视频10: `v29.douyinvod.com`
+
+抖音短视频11: `v3-z.douyinvod.com`
+
+抖音短视频12: `v5-h.douyinvod.com`
+
+抖音短视频13: `v9-y.douyinvod.com`
+
+高德导航0: `mapdownload.autonavi.com`
+
+高德导航1: `dualstack-mpsapi.amap.com`
+
+高德导航2: `optimus-ads.amap.com`
+
+高德导航3: `webapi.amap.com`
+
+高德地图4: `mps.amap.com`
+
+广东电信: `gd.189.cn`
+
+哈罗单车0: `api.hellobike.cn`
+
+哈罗单车1: `apmgw.hellobike.com`
+
+哈罗单车2: `h5offline-cdn.hellobike.com`
+
+哈罗单车3: `m.hellobike.com`
+
+哈罗单车4: `taxiapi.hellobike.cn`
+
+哈罗单车5: `taxiapi.hellobike.com`
+
+华为云: `function-skill.obs.cn-east-2.myhuaweicloud.com`
+
+联通沃阅读: `res.woread.com.cn`
+
+拼多多0: `dl-1.pddpic.com`
+
+拼多多1: `img-1.pddpic.com`
+
+拼多多2: `img-2.pddpic.com`
+
+拼多多3: `img-3.pddpic.com`
+
+拼多多商城: `meta.pinduoduo.com`
+
+手机淘宝0: `bizcommon.alicdn.com`
+
+手机淘宝1: `g.alicdn.com`
+
+手机淘宝2: `img.alicdn.com`
+
+手机淘宝3: `img-dt.alicdn.com`
+
+手机淘宝4: `market.m.taobao.com`
+
+手机淘宝5: `zres.alicdn.com`
+
+腾讯网0: `dldir1.qq.com`
+
+腾讯网1: `grouptalk.c2c.qq.com`
+
+腾讯网2: `mmbiz.qlogo.cn`
+
+腾讯网3: `mp.weixin.qq.com`
+
+腾讯网4: `pingjs.qq.com`
+
+腾讯网5: `qzs.qq.com`
+
+腾讯网6: `wxsnsdythumb.wxs.qq.com`
+
+头条网0: `api-access.pangolin-sdk-toutiao.com`
+
+头条网1: `api-access.pangolin-sdk-toutiao-b.com`
+
+头条网2: `lf5-geckocdn-tos.pstatp.com`
+
+头条网3: `lf9-geckocdn-tos.pstatp.com`
+
+头条网4: `sf1-ttcdn-tos.pstatp.com`
+
+头条网5: `sf3-ttcdn-tos.pstatp.com`
+
+微信视频通话: `wxsnsdy.wxs.qq.com`
+
+微信图片: `mmbiz.qpic.cn`
+
+微信微众银行: `ida.webank.com`
+
+微信小程序: `miniapp.gtimg.cn`
+
+西瓜视频0: `v5-dy-e.ixigua.com`
+
+西瓜视频1: `v5-dy-gdhy.ixigua.com`
+
+优酷0: `m.youku.com`
+
+优酷1: `api.mobile.youku.com`
+
+中国联通手机营业厅0: `img.client.10010.com`
+
+中国联通手机营业厅1: `m.client.10010.com`
+
+中国联通手机营业厅2: `m1.ad.10010.com`
+
+中国联通手机营业厅3: `m1.img.10010.com`
+
+中国移动手机营业厅0: `image.gd.10086.cn`
+
+中国移动手机营业厅1: `wap.gd.10086.cn`
+
+
+### 理论全国三网通用绿通混淆
+
+微信支付通道: `wx.tenpay.com`
+
+支付宝支付通道: `mclient.alipay.com`
+
+QQ音乐混淆参数: `dl.stream.qqmusic.com`
+
+梦想e卡混淆参数0: `imhdfs.icbc.com.cn`
+
+梦想e卡混淆参数1: `v.icbc.com.cn` (福建已免)
+
+爱奇艺混淆参数: `data.video.qiyi.com`
+
+高德地图混淆参数: `mps.amap.com`
+
+央视影音混淆参数: `asp.cntv.myalicdn.com`
+
+百度贴吧混淆参数: `static.tieba.baidu.com`
+
+微信混淆参数: `short.weixin.qq.com` (遵义广州已免)
+
+虾米音乐混淆参数: `pic.xiami.net`
+
+天翼视讯混淆参数: `vod3.nty.tv189.cn`
+
+钉钉混淆参数: `tms.dingtalk.com`
+
+微博混淆参数0: `tobe.vip.weibo.com`
+
+微博混淆参数1: `new.vip.weibo.cn`
+
+微博混淆参数2: `simg.s.weibo.com`
+
+优酷混淆参数0: `push.m.youku.com`
+
+优酷混淆参数1: `api.mobile.youku.com`
+
+优酷混淆参数2: `www.youku.com`
+
+优酷混淆参数3: `vali-dns.cp31.ott.cibntv.net`
+
+书旗混淆参数0: `spend1.shuqireader.com`
+
+书旗混淆参数1: `c1.shuqireader.com`
+
+QQ音乐混淆参数: `dl.stream.qqmusic.com`
+
+腾讯大王卡0: `tx.flv.huya.com`
+
+腾讯大王卡1: `short.weixin.qq.com`
+
+腾讯大王卡2: `szextshort.weixin.qq.com`
+
+百度圣卡: `data.video.qiyi.com`
+
+阿里宝卡: `vali-dns.cp31.ott.cibntv.net`
+
+阿里宝卡微博卡: `gw.alicdn.com`
+
+米粉: `api.ad.xiaomi.com`
+
+小米应用商店: `data.mistat.xiaomi.com`
+
+小米直播: `zbupic.zb.mi.com`
+
+小米充值: `f100.g.mi.com`
+
+小米商城: `mi.com`
+
