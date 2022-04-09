@@ -217,6 +217,6 @@ https://dllx.tk/GreenFishYYDS-Clash
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![wuyong](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/wuyong-logo.png)](https://wuyong.fun)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![openit](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/openit.-logo.png)](https://doc.openit.ml)
+[![openit](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/openit-logo.png)](https://doc.openit.ml)
 
 
