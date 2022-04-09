@@ -213,6 +213,7 @@ https://dllx.tk/GreenFishYYDS-Clash
 [![52bd](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/52bd-logo.png)](https://www.52bd.net)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![kinh](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/kinh-logo.png)](https://kinh.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![wuyong](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/wuyong-logo.png)](https://wuyong.fun)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![openit](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/openit-logo.png)](https://doc.openit.ml)
