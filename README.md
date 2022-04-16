@@ -47,7 +47,7 @@
 
 ♻️[訂閱轉換] `https://sub.payday2.eu.org`
 
-🧰[免費美區Apple賬號] `https://free.shadowrocket.online`
+🧰[免費美區Apple賬號] `https://appledi.com`
 
 📛聲明[點擊查看](https://github.com/GreenFishStudio/GreenFish/blob/privacy/README.md)
 
