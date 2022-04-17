@@ -1,13 +1,16 @@
-name: sub_merge
+name: GET
 
+# 触发条件
 on:
   workflow_dispatch:
 
   schedule:
+    # - cron: '*/5 * * * *'
+    # 表达式生成  https://crontab.guru/
     - cron: '*/60 * * * *'
 
 jobs:
-  deploy:
+  Collecting:
     runs-on: ubuntu-latest
     steps:
     - name: 迁出代码
@@ -29,6 +32,8 @@ jobs:
       run: |
         pip install -r ./utils/requirements.txt
     - name: 执行任务
+      # env:
+      #   CONFIG: ${{ secrets.CONFIG }}
       run: |
         python ./utils/list_merge.py
       
@@ -36,11 +41,11 @@ jobs:
       run: |                 
          git config --local user.email "actions@github.com"
          git config --local user.name "GitHub Actions"
+         git pull
+         git status
+         git add ./Subscription/GreenFishPool
+         git add ./Subscription/Clash/GreenFishPool
          git add ./sub
          git add ./utils
-         git add README.md
-         git commit -m "$(date '+%Y-%m-%d %H:%M:%S')合并节点"
-    - name: 推送更改
-      uses:  ad-m/github-push-action@master
-      with:
-         branch: master
+         git commit -m "$(date '+%Y-%m-%d %H:%M:%S')合并筛选节点"
+         git push -f origin main
