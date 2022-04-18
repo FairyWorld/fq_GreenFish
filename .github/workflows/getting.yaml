@@ -1,4 +1,4 @@
-name: GET
+name: GETTING
 
 # 触发条件
 on:
@@ -44,7 +44,7 @@ jobs:
          git pull
          git status
          git add url
-         git add ./Subscription/GreenFishPool
+         git add long
          git add ./sub
          git add ./utils
          git commit -m "$(date '+%Y-%m-%d %H:%M:%S')合并筛选节点"
