@@ -11,7 +11,7 @@ from urllib import request
 
 
 # 文件路径定义
-Eterniy = './SubscriptionGreenFishPool'
+Eterniy = './Subscription/GreenFishPool'
 readme = './README.md'
 
 sub_list_json = './sub/sub_list.json'
