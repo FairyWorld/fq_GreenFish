@@ -8,7 +8,7 @@
     {
       "id": 1,
       "remarks": "节点池1",
-      "url": "https://raw.githubusercontent.com/ronghuaxueleng/get_v2/main/pub/freenode.yaml",
+      "url": "http://49.233.28.108:1314/clash/proxies",
       "enabled": true
     },
     {
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "remarks": "节点池4",
-      "url": "https://raw.githubusercontent.com/git-yusteven/openit/main/long",
+      "url": "https://raw.githubusercontent.com/Thanos8053/v2ray/main/v2ray",
       "enabled": true
     },
     {
@@ -62,7 +62,7 @@
     {
       "id": 10,
       "remarks": "节点池10",
-      "url": "https://dllx.tk/GreenFishYYDS",
+      "url": "https://raw.githubusercontent.com/York-Labs/nodes/main/sub/v2ray",
       "enabled": true
     },
     {
@@ -134,7 +134,7 @@
     {
       "id": 22,
       "remarks": "节点池22",
-      "url": "https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity",
+      "url": "https://paste.in/raw/bpjzx2",
       "enabled": true
     },
     {
@@ -166,35 +166,5 @@
       "remarks": "节点池27",
       "url": "https://raw.githubusercontent.com/Glysit/Clash/main/ClashGlysit.yml",
       "enabled": true
-    },
-    {
-      "id": 28,
-      "remarks": "节点池28",
-      "url": "https://raw.githubusercontent.com/Thanos8053/v2ray/main/v2ray",
-      "enabled": true
-    },
-    {
-      "id": 29,
-      "remarks": "节点池29",
-      "url": "http://49.233.28.108:1314/clash/proxies",
-      "enabled": true
-    },
-    {
-      "id": 30,
-      "remarks": "节点池30",
-      "url": "https://raw.githubusercontent.com/York-Labs/nodes/main/sub/v2ray",
-      "enabled": true
-    },
-    {
-      "id": 31,
-      "remarks": "节点池31",
-      "url": "https://paste.in/raw/bpjzx2",
-      "enabled": true        
-    },
-    {
-      "id": 32,
-      "remarks": "节点池32",
-      "url": "https://bulianglin.com/tool/freeproxy/05-21/46",
-      "enabled": true        
     }
   ]
