@@ -41,7 +41,7 @@
 
 📞[TG電報頻道] `https://t.me/payday501`
 
-♾️[機場測速] `http://cs.brink.ga(closed)`
+♾️[機場測速] `http://sst.payday2.eu.org`
 
 📶[網絡測速]`https://greenfish.dualstack.speedtestcustom.com`
 
