@@ -78,7 +78,7 @@ https://dllx.tk/GreenFishYYDS
 https://dllx.tk/GreenFishYYDS-Clash
 ```
 
-[一键导入Clash](clash://install-config?url=https://dllx.tk/GreenFishYYDS-Clash){:target="_blank"}
+<a href="clash://install-config?url=https://dllx.tk/GreenFishYYDS-Clash" target="_blank">一键导入Clash</a>
 
 #### PS: 链接中的`dllx`可替换为`dllc` `dlli` `dllo` `dllv`
 
