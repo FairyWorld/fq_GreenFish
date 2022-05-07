@@ -40,21 +40,23 @@
 
 📣[TG電報頻道] `https://t.me/payday501`
 
-📚[GF博客] `https://blog.payday2.eu.org`
+📚[GF博客] `https://blog.greenfishpowered.cn`
 
 🔗[短链接] `https://a.payday2.eu.org`
 
-♾️[機場測速] `http://sst.payday2.eu.org`
+♾️[機場測速] `http://sst.greenfishpowered.cn`
 
 📶[網絡測速]`https://greenfish.dualstack.speedtestcustom.com`
 
-🔄[訂閱轉換] `https://sub.payday2.eu.org`
+🔄[訂閱轉換] `https://sub.greenfishpowered.cn`
 
-⏬[流量消失器] `https://bye.payday2.eu.org`
+⏬[流量消失器] `https://bye.greenfishpowered.cn`
 
-🔎[讓我幫你Google一下] `https://google.payday2.eu.org`
+🎵[YesPlayMusic] `https://music.greenfishpowered.cn`
 
-🔎[讓我幫你Bing一下] `https://bing.payday2.eu.org`
+🔎[讓我幫你Google一下] `https://google.greenfishpowered.cn`
+
+🔎[讓我幫你Bing一下] `https://bing.greenfishpowered.cn`
 
 🧰[免費美區Apple賬號] `https://appledi.com`
 
