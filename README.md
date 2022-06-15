@@ -44,7 +44,7 @@
 
 🔗[短链接] `https://a.payday2.eu.org`
 
-♾️[機場測速] `http://sst.greenfishpowered.cn`
+♾️[機場測速] `http://sst.greenfishpowered.cn:8080`
 
 📶[網絡測速]`https://greenfish.dualstack.speedtestcustom.com`
 
