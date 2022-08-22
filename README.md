@@ -206,11 +206,11 @@ https://dllx.tk/GreenFishYYDS-Clash
 
 💳[Paypal] `https://www.paypal.com/paypalme/thekingmengxian`
 
-🪙[BTC] `18giYoWjDXRoNDfMFd3A1bZJ4Jf5K6cF6z`
+🪙[BTC] `18reJvhe55wzTW2zzA79ZppJCDj5qkUYow`
 
-🪙[ETH] `0x0190C4e90022d99Be7D3303dfF706d6c10Af3bE3`
+🪙[ETH] `0xb4C9463E7F6EB3A13C2e12bF3edA5D71c3243B55`
 
-🪙[USDT-TRC20] `TLZjXKK92TD1ebbx7GRQQrrekVu7S4umTd`
+🪙[USDT-TRC20] `TL4dmRwbUhxj2MEmtNtvbLr6v45qcpiqNF`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
