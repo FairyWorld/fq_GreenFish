@@ -1,7 +1,5 @@
 ![GYJXWLWX](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/PAYDAY4478.png)
 
-# 每日更新
-有问题直接提issues或去TG群问
 
 ## 喜歡本項目就點擊右上角 Star和Fork吧！
 
