@@ -1,7 +1,7 @@
 ![GYJXWLWX](https://cdn.jsdelivr.net/gh/GreenFishStudio/GreenFish@master/Image/Logo/PAYDAY4478.png)
 
 
-## 喜歡本項目就點擊右上角 Star和Fork吧！
+## 喜歡本項目就點擊右上角 Star吧！
 
 
 [![Github License](https://img.shields.io/github/license/GreenFishStudio/GreenFish.svg?label=LICENSE&logo=github)](https://github.com/GreenFishStudio/GreenFish/blob/master/LICENSE)
@@ -18,12 +18,11 @@
 
 - [推薦信息](#推薦信息)
 - [訂閱鏈接](#訂閱鏈接)
-- [翻牆教程](https://dllx.tk/fqjc)
-- [免流混淆](https://dllx.tk/mlhx)
+- [翻牆教程](https://github.com/GreenFishStudio/GreenFish/wiki/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B-zh_hans)
+- [免流混淆](https://github.com/GreenFishStudio/GreenFish/wiki/%E5%85%8D%E6%B5%81%E6%B7%B7%E6%B7%86)
 - [TG語言包](#telegram語言包)
 - [GitHub鏡像站](#gitHub鏡像站)
 - [科學上網客戶端](#科學上網客戶端)
-- [精選VPN推薦](#精選VPN推薦)
 - [機場推薦](#機場推薦)
 - [捐贈地址](#捐贈地址)
 - [友情推薦](#友情推薦)
@@ -34,21 +33,17 @@
 
 ## 📢推薦信息📢
 
-🧑‍🤝‍🧑[TG電報群] `https://t.me/payday4478`
+🧑‍🤝‍🧑[TG Group] `https://t.me/payday4478`
 
-📣[TG電報頻道] `https://t.me/payday501`
+📣[TG Discuss] `https://t.me/payday501`
 
-📚[GF博客] `https://blog.greenfishpowered.cn`
+📚[Blog] `https://blog.greenfishpowered.cn`
 
-🔗[短链接] `https://a.payday2.eu.org`
-
-♾️[機場測速] `http://sst.greenfishpowered.cn:8080`
-
-📶[網絡測速]`https://greenfish.dualstack.speedtestcustom.com`
+📶[網絡測速] `https://fiber.greenfishpowered.cn`
 
 🔄[訂閱轉換] `https://sub.greenfishpowered.cn`
 
-⏬[流量消失器] `https://bye.greenfishpowered.cn`
+⏬[Bye Data] `https://bye.greenfishpowered.cn`
 
 🎵[YesPlayMusic] `https://music.greenfishpowered.cn`
 
@@ -66,16 +61,14 @@
 
 ### v2ray
 
-综合
 ```
-https://dllx.tk/GreenFishYYDS
+https://u6vl.com/openit/modules/base64
 ```
 
 ### Clash
 
-综合: 
 ```
-https://dllx.tk/GreenFishYYDS-Clash
+https://u6vl.com/openit/modules/clash
 ```
 
 #### PS: 链接中的`dllx`可替换为`dllc` `dlli` `dllo` `dllv`
@@ -167,14 +160,14 @@ https://dllx.tk/GreenFishYYDS-Clash
 
 ## 📢機場推薦📢 
 
-⭐薯條(CNIX)是一家老牌翻牆機場,提供IPLC內網專線節點,翻牆協議為SS,薯條節點數量超多,並且有IPv6接入
->✈[薯條CNIX] `https://xn--gmq396grzd.com`
+⭐这家运营了大概 2 年多了，也是合租香港家宽慢慢起步的，测了测速度相当不错，最近加了太多服务器，都有点眼花缭乱了，性价比不错，价钱还算实惠，有低价的轻量套餐。 200 + 节点，新增多条 BGP 线路，以及专线节点。
+>✈[薯條CNIX] `https://support.dellcomputer.online/auth/register`
 
-⭐别看了,买不起的
->✈[佩奇Nexitally] `https://nexitally.net`
+⭐佩奇家主站，一家全线中转线路的高端机场，成立大概三年多了，机场主也比较佛系，机场是他们公司副业。全部线路已全部更换为 Anycast 接入，新增国内 Azure；新增 0.1 倍率节点 Hong Kong LB。稳定性和速度都不错，有自己的傻瓜客户端，可以登录后一键连接。价钱其实也不算太亲民，但是对于稳定追求性的用户也还好。稳定性不错，只要不是自己把自己折腾炸；多数线路改为 AIA 接入。新增游戏用加速器服务。
+>✈[佩奇Nexitally] `https://nexitally.net/signupbyemail.aspx`
 
-⭐TAG採用SS翻牆協議,支持UDP,服務穩定可靠,提供的IEPL內網專線翻牆線路
->✈[TAG] `https://tagss.pro`
+⭐以前的 Ac­cel­er­a­tor，线路现在是全 BGP-IEPL 广港 + BGP-IEPL 沪日中转，全球 90 + 国家地区节点，覆盖范围目前是最广的。稳定性还不错。
+>✈[TAG] `https://tagss.pro/#/register`
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
